@@ -38,4 +38,4 @@ joao-armando-site/
 
 ## Observação
 
-O e-mail de parcerias está como `contato@joaoarmando.com`. Troque pelo e-mail oficial do artista, se necessário.
+O e-mail oficial para parcerias é `joaoarmando.faria@gmail.com`.
