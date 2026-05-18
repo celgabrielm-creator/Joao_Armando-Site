@@ -1,16 +1,16 @@
 # João Armando | Site Oficial
 
-Site artístico e profissional para divulgação do artista musical João Armando.
+Site artístico profissional para divulgação do artista musical João Armando.
 
 ## Conteúdo
 
-- Biografia do artista
-- Curiosidades
-- Divulgação de músicas e lançamentos
-- Área para parcerias
-- Links para Spotify, YouTube e Instagram
-- Galeria com fotos do artista
-- Layout responsivo para celular, tablet e computador
+- Biografia do artista;
+- Curiosidades;
+- Divulgação de músicas e próximos lançamentos;
+- Área destinada a parcerias;
+- Links para Spotify, YouTube, Instagram e demais redes sociais;
+- Galeria com fotos do artista;
+- Layout responsivo para celular, tablet e computador.
 
 ## Como abrir
 
@@ -38,4 +38,4 @@ joao-armando-site/
 
 ## Observação
 
-O e-mail de parcerias está como `contato@joaoarmando.com`. Troque pelo e-mail oficial do artista, se necessário.
+O e-mail oficial para parcerias é `joaoarmando.faria@gmail.com`.
