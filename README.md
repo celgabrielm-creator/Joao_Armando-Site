@@ -39,9 +39,6 @@ Joao_Armando-Site/
 
 ---
 
-<<<<<<< HEAD
-O e-mail oficial para parcerias é `joaoarmando.faria@gmail.com`.
-=======
 ## Arquitetura CSS
 
 O projeto utiliza **CSS Custom Properties** (variáveis nativas) definidas no `:root` como design tokens:
@@ -150,4 +147,3 @@ Acesse `http://localhost:3000` no navegador.
 ## Licença
 
 Todos os direitos reservados © 2026 João Armando. Conteúdo e identidade visual de uso exclusivo para divulgação artística.
->>>>>>> 445d51ac16e3e3c1cdb1cb9d8880bf08f5f9bbbf
